@@ -1,6 +1,6 @@
 PHP-MySql based Invenotry Manegement System
 ==========================================================
-(This is a university course based project. So that it is not commpleted. If you wantn to use that, just take your responsibility to update according your criteria. So that this project coded by procedural way of PHP and MySql. But I used functions to omake this coding reusable. In some cases, I used some special classes for make our project more smoothly.)
+
 
 
 ## Languages, that is used
@@ -12,7 +12,7 @@ PHP-MySql based Invenotry Manegement System
 - Java Script
 - jQuery
 - Carbon
-  - A special php class for handeling PHP Date and Time Smoothly. [Official Website] [https://github.com/briannesbitt/Carbon]. To know more, take a look [http://www.tisuchi.com/php-date-time-customization-carbon/]
+
 
 
 
